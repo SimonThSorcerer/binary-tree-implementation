@@ -1,0 +1,17 @@
+com\simon\simontree\api\TreeElement.class
+com\simon\simontree\enums\TypeOfModification.class
+com\simon\simontree\model\ModificationBinaryTree$Node.class
+com\simon\simontree\api\ModificationBinaryTreeInterface$Node.class
+com\simon\simontree\model\DiscountedModificationGroup.class
+com\simon\simontree\model\ModificationBinaryTree$1.class
+com\simon\simontree\model\ModificationGroup.class
+com\simon\simontree\enums\TreeLogic.class
+com\simon\simontree\util\HelperMethods$SingletonHelper.class
+com\simon\simontree\api\ModificationBinaryTreeInterface.class
+com\simon\simontree\model\ModificationBinaryTree.class
+com\simon\simontree\Main.class
+com\simon\simontree\model\DiscountedModification.class
+com\simon\simontree\api\ModificationBinaryTreeOperations.class
+com\simon\simontree\model\Modification.class
+com\simon\simontree\api\ModificationBinaryTreeOperationsInterface.class
+com\simon\simontree\util\HelperMethods.class
